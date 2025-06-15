@@ -1,4 +1,4 @@
-# Tor-Bridges-Named
+# Tor-Bridges-Namer
 
 Why am I doing this?
 ```
