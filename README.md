@@ -1,17 +1,8 @@
-# Tor-Bridges-Collector
+# Tor-Bridges-Named
 
-Collecting Tor Bridges.
-
-Why?
+Why am I doing this?
 ```
-This is to show how broken Tor bridges distributions are.
-Please fix your system!
-P.S.: We are against oppressive regimes!
-```
-
-Backups:
-```
-No for now.
+Each Tor bridge has a different uptime and bandwidth. To use Tor most effectively, you need to take the best bridges. According to the Kerckhoffs's principle, the encryption system should remain secure, even if all its details are known. Therefore, the naming of the Tor bridges does not pose any threats.
 ```
 
 Types of pluggable transport:
@@ -21,6 +12,3 @@ WebTunnel bridges are a censor resistant proxies that try to imitate HTTPS traff
 Obfs4 bridges makes Tor traffic look random, and also prevents censors from finding bridges by Internet scanning.
 
 Snowflake bridges are improvement upon Flashproxy. It sends your traffic through WebRTC, a peer-to-peer protocol with built-in NAT punching. 
-
-Vanilla bridges are unobfuscated bridges.
-```
