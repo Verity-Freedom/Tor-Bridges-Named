@@ -11,4 +11,7 @@ WebTunnel bridges are a censor resistant proxies that try to imitate HTTPS traff
 
 Obfs4 bridges makes Tor traffic look random, and also prevents censors from finding bridges by Internet scanning.
 
-Snowflake bridges are improvement upon Flashproxy. It sends your traffic through WebRTC, a peer-to-peer protocol with built-in NAT punching. 
+Snowflake bridges are improvement upon Flashproxy. It sends your traffic through WebRTC, a peer-to-peer protocol with built-in NAT punching.
+
+Vanilla bridges are unobfuscated bridges.
+```
