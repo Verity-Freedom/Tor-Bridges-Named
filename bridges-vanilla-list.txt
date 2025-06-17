@@ -1,3 +1,7 @@
+https://metrics.torproject.org/rs.html#search/transport:webtunnel
+https://www.speedcheck.org (it is recommended to check their speed separately before using in conflux)
+Always delete the name before using a bridge
+
 (plinganser
 Bridge 77.2.6.116:443 2154DB58231A01333F76160E6DC438BDBA66AD62
 Bridge 77.2.15.202:443 2154DB58231A01333F76160E6DC438BDBA66AD62
