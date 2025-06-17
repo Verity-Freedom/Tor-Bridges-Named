@@ -1,6 +1,5 @@
-https://github.com/scriptzteam/Tor-Bridges-Collector/blob/main/bridges-webtunnel
 https://metrics.torproject.org/rs.html#search/transport:webtunnel
-https://www.speedcheck.org (it is still recommended to check their speed separately before using in conflux)
+https://www.speedcheck.org (it is recommended to check their speed separately before using in conflux)
 Always delete the name before using a bridge
 
 == Named bridges ==
